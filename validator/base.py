@@ -171,9 +171,9 @@ class ClusterResult:
             return "B-"
         elif score >= 77:
             return "C+"
-        elif score >= 77:
+        elif score >= 73:
             return "C"
-        elif score >= 77:
+        elif score >= 70:
             return "C-"
         elif score >= 67:
             return "D+"
